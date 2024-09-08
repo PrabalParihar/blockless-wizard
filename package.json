@@ -14,8 +14,32 @@
   "contributes": {
     "commands": [
       {
-        "command": "blockless-wizard.helloWorld",
-        "title": "Hello World"
+        "command": "blockless.installCLI",
+        "title": "Blockless: Install CLI"
+      },
+      {
+        "command": "blockless.login",
+        "title": "Blockless: Login to Network"
+      },
+      {
+        "command": "blockless.initFunction",
+        "title": "Blockless: Initialize Function"
+      },
+      {
+        "command": "blockless.deployFunction",
+        "title": "Blockless: Deploy Function"
+      },
+      {
+        "command": "blockless.invokeFunction",
+        "title": "Blockless: Invoke Function"
+      },
+      {
+        "command": "blockless.initSite",
+        "title": "Blockless: Initialize Static Site"
+      },
+      {
+        "command": "blockless.deploySite",
+        "title": "Blockless: Deploy Static Site"
       }
     ]
   },
