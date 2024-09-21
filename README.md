@@ -1,5 +1,7 @@
 # Blockless Wizard - VS Code Extension
 
+### ETH-Online 2024 Winner in Best dev Tooling
+
 Welcome to **Blockless Wizard**, a powerful VS Code extension designed to streamline the development and deployment of decentralized, serverless applications on the Blockless Network. By integrating common Blockless CLI commands and workflows directly into VS Code, this extension simplifies your development process, allowing you to execute complex tasks with minimal effort—without leaving your editor.
 
 ## Features
